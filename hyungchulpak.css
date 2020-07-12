@@ -1,0 +1,15 @@
+.circle{
+    width: 200px;
+    height: 200px; 
+    border-radius: 70%;
+    overflow: hidden;
+    margin-left: 50px;
+}
+body{
+    background-color: mintcream;
+}
+div{
+    text-align: center;
+    font-size: large;  
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
